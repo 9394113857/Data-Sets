@@ -1,1 +1,68 @@
+Pip commands:-
+Pip install Flask==1.1.1 (Specific version)
+Pip install Flask (Defaults to latest version)
 
+Py –m pip freeze > requirements.txt
+Py –m pip install -r requirements.txt
+
+Procfile:- without extension
+web: gunicorn app:app
+
+======================
+Switch to the Project Directory first:-
+================ 1.Follow the Commands =====================
+
+git init
+git branch // * indicates the current branch on which we are switched
+git branch -a // shows all branches
+git checkout -b raghu
+git branch // * indicates the current branch on which we are switched
+git status
+git add C:/Users/Raghunadh/Desktop/Projects/abc/Raghu.java
+(or)
+git add .
+git status
+git commit -m "first commit"
+git branch -m raghu
+git remote add origin https://github.com/9394113857/xyz.git
+git push -u origin raghu // push for Git folder
+
+====================== 2.Only File Changes =============================
+
+git status // firstly red so add now some changes done, so immediately add this file and commit and push
+git add Raghu.java // added changes to the repository now
+git status // Shows green color now, Which means to commit and push.
+git restore Raghu.java // to discard changes in the working directory
+git add Raghu.java
+
+
+
+
+
+
+
+============3.When you execute two git commands simultaneously============ 
+
+Try deleting index.lock file in your .git directory.
+
+rm -f .git/index.lock
+
+Such problems generally occur when you execute two git commands simultaneously; maybe one from the command prompt and one from an IDE.
+
+======================= 4.Only Changes =======================
+
+git commit -m "first commit"
+git push -u origin raghu
+
+============== 
+
+git branch -a => Displays all branches
+git checkout raghu => Switched to raghu branch
+
+Yes, it's executing
+
+==============
+
+Use Pipenv or other tools is recommended for improving your development flow.
+pip3 freeze > requirements.txt # Python3 pip freeze > requirements.txt # Python2
+If you do not use a virtual environment, pigar will be a good choice for you.
