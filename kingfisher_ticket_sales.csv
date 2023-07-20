@@ -1,0 +1,11 @@
+TicketID,FlightID,Source,Destination,DepartureDate,Price,Class,PassengerName,PassengerAge,PassengerGender,BookingDate
+1001,F001,New York,Los Angeles,15-07-2023,500,Economy,John Doe,30,Male,10-07-2023
+1002,F002,Chicago,Miami,16-07-2023,350,Economy,Jane Smith,25,Female,12-07-2023
+1003,F003,Dallas,Denver,16-07-2023,200,Economy,Bob Johnson,45,Male,13-07-2023
+1004,F004,Atlanta,San Francisco,17-07-2023,600,Business,Emily Brown,35,Female,15-07-2023
+1005,F005,Los Angeles,New York,18-07-2023,450,Economy,Michael Lee,28,Male,16-07-2023
+1006,F006,Miami,Chicago,18-07-2023,350,Economy,Sarah Adams,32,Female,17-07-2023
+1007,F007,Denver,Dallas,19-07-2023,180,Economy,William Brown,22,Male,18-07-2023
+1008,F008,San Francisco,Atlanta,19-07-2023,580,Business,Olivia Green,29,Female,19-07-2023
+1009,F009,New York,Miami,20-07-2023,400,Economy,James Smith,31,Male,19-07-2023
+1010,F010,Chicago,Dallas,20-07-2023,250,Economy,Sophia Taylor,27,Female,20-07-2023
