@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,QuantityAvailable,Price
+P001,Laptop,Electronics,50,800
+P002,Smartphone,Electronics,30,500
+P003,Headphones,Electronics,80,50
+P004,Monitor,Electronics,20,300
+P005,Keyboard,Electronics,40,30
+P006,Mouse,Electronics,60,20
+P007,Printer,Electronics,15,200
+P008,External HDD,Electronics,25,100
+P009,T-shirt,Clothing,100,25
+P010,Jeans,Clothing,70,50
+P011,Sneakers,Clothing,50,80
+P012,Backpack,Accessories,40,40
+P013,Sunglasses,Accessories,60,35
+P014,Watch,Accessories,30,100
+P015,Umbrella,Accessories,90,15
