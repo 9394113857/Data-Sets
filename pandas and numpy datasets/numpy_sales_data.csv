@@ -1,0 +1,9 @@
+transaction_id,timestamp,product_id,quantity_sold,total_sales_amount,location,customer_id
+1,01-07-2023 09:00,101,3,150.75,New York,C001 
+2,01-07-2023 11:30,102,2,78.5,Los Angeles,C002 
+3,02-07-2023 15:45,101,1,50.25,San Francisco,C003 
+4,03-07-2023 10:20,103,5,300,Chicago ,C004 
+5,03-07-2023 14:00,102,4,157,Boston ,C005 
+6,04-07-2023 12:10,104,2,90,New York,C006 
+7,05-07-2023 17:30,101,2,100.5,Chicago ,C007 
+8,06-07-2023 08:45,103,1,60,Los Angeles,C008 
